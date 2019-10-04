@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "0.1.0",
+  "description": "Basic Todo app for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'this needs tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morganDHMurray/TODO.git"
+  },
+  "author": "Morgan Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morganDHMurray/TODO/issues"
+  },
+  "homepage": "https://github.com/morganDHMurray/TODO#readme"
+}
